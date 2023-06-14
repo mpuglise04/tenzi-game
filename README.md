@@ -1,1 +1,1 @@
-# tenzies-game
+# tenzi-game
